@@ -24,6 +24,7 @@ h1 {
     background-color: dimgrey;
     color: lightgrey;
     transition: 0.5s;
+    z-index: 9;
 }
 
 nav {
@@ -32,6 +33,7 @@ nav {
     right: 0px;
     padding: 1em;
     transition: 0.5s;
+    z-index: 10;
 }
 
 
